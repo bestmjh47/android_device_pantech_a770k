@@ -1,0 +1,18 @@
+Cyanogenmod10 device configs for A770K/A760S.
+
+Thanks to hpa(http://github.com/985hpakick)
+
+2014/06/04 15:28(KST)
+
+
+Working Features: All!
+
+Not working Features: None!
+
+Ultimate Kernel(Linux-3.0.32) is included.
+
+If you want to use your own kernel, you should replace wlan module(wlan.ko) built from your kernel source. And Wi-Fi will works fine! 
+
+You don't have to patch cm10 source because I included some pantech-specific libs in this source.
+
+I miss my IM-A770K... He is stucking in QHSUSB_DLOAD...
