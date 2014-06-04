@@ -13,6 +13,6 @@ Ultimate Kernel(Linux-3.0.32) is included.
 
 If you want to use your own kernel, you should replace wlan module(wlan.ko) built from your kernel source. And Wi-Fi will works fine! 
 
-You don't have to patch cm10 source because I included some pantech-specific libs in this source.
+You don't have to patch cm10 source excluding proximity sensor because I included some pantech-specific libs in this source.
 
 I miss my IM-A770K... He is stucking in QHSUSB_DLOAD...
